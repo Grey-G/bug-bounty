@@ -51,6 +51,7 @@ Denied over-cap call:
 - `docs/ONCHAIN_MAPPING.md` maps the local harness to Solana's native subscriptions program and client methods.
 - `examples/subscriptions-sdk-flow.ts` sketches the adapter boundary for replacing the local ledger with `@solana/subscriptions`.
 - `DEMO_OUTPUT.md` captures the verified local test and demo output.
+- `ARTICLE.md` is a long-form technical deep dive on Solana Subscriptions and Allowances, including architecture, tradeoffs, agentic-commerce use cases, and Canadian relevance.
 
 ## Solana Mapping
 
