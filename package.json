@@ -1,0 +1,22 @@
+{
+  "name": "paystream-agent-allowance-demo",
+  "version": "0.1.0",
+  "description": "A runnable code sample for Solana native allowances powering metered AI agent API access.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "demo": "node src/scenario.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "solana",
+    "subscriptions",
+    "allowances",
+    "agentic-commerce",
+    "pay-sh"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
