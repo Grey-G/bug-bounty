@@ -52,6 +52,7 @@ Denied over-cap call:
 - `examples/subscriptions-sdk-flow.ts` sketches the adapter boundary for replacing the local ledger with `@solana/subscriptions`.
 - `DEMO_OUTPUT.md` captures the verified local test and demo output.
 - `ARTICLE.md` is a long-form technical deep dive on Solana Subscriptions and Allowances, including architecture, tradeoffs, agentic-commerce use cases, and Canadian relevance.
+- `video/pay-sh-explainer/` contains a 9:16 Pay.sh vertical explainer video package, including the generated WebM asset, cover, landing page, and transcript.
 
 ## Solana Mapping
 
