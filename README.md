@@ -50,6 +50,7 @@ Denied over-cap call:
 - `test/ledger.test.js` verifies successful settlement, over-cap rejection, expiry rejection, and missing-authority rejection.
 - `docs/ONCHAIN_MAPPING.md` maps the local harness to Solana's native subscriptions program and client methods.
 - `examples/subscriptions-sdk-flow.ts` sketches the adapter boundary for replacing the local ledger with `@solana/subscriptions`.
+- `DEMO_OUTPUT.md` captures the verified local test and demo output.
 
 ## Solana Mapping
 
